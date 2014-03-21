@@ -1,0 +1,4 @@
+Please set appropriate directory using setwd before running r code.
+
+For any doubts please email :
+ameyapat@buffalo.edu
